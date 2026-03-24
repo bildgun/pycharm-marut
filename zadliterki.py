@@ -1,6 +1,7 @@
 imie = "Bohdan Susulovskyi"
+index = imie.index(" ")
 for i,ch in enumerate(imie):
-    if i > 6:
-        print("\t"*(i-7),ch)
+    if i > index:
+        print("\t"*(i-index-1),ch)
     else:
         print("\t"*i,ch)
