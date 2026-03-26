@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="Zad.2 bsusu">
+      <change afterPath="$PROJECT_DIR$/cw2/zadsamogl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad99bottles.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zad99bottles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadfor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadfor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadliterki.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadliterki.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadobiekty.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadobiekty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadodds.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadodds.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +33,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3BNxU5eXSseLCWkLgR7Y0sm4tis" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +49,7 @@
     "Python.zadfor.executor": "Debug",
     "Python.zadliterki.executor": "Run",
     "Python.zadobiekty.executor": "Run",
+    "Python.zadsamogl.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -55,6 +62,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\PycharmProjects\Bildgun2\cw1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774343341457</updated>
       <workItem from="1774343342459" duration="4730000" />
+      <workItem from="1774508867924" duration="1140000" />
     </task>
     <task id="LOCAL-00001" summary="Zad.1 bsusu">
       <option name="closed" value="true" />
@@ -129,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774348093571</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Zad.2 bsusu">
+      <option name="closed" value="true" />
+      <created>1774508950521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774508950521</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +177,8 @@
     <SUITE FILE_PATH="coverage/Bildgun2$main.coverage" NAME="main Coverage Results" MODIFIED="1774343543870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bildgun2$zadfor.coverage" NAME="zadfor Coverage Results" MODIFIED="1774344900704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bildgun2$zadobiekty.coverage" NAME="zadobiekty Coverage Results" MODIFIED="1774347122638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bildgun2$zadliterki.coverage" NAME="zadliterki Coverage Results" MODIFIED="1774348088461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bildgun2$zadliterki.coverage" NAME="zadliterki Coverage Results" MODIFIED="1774508918546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bildgun2$zadsamogl.coverage" NAME="zadsamogl Coverage Results" MODIFIED="1774510009252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
     <SUITE FILE_PATH="coverage/Bildgun2$zad99bottles.coverage" NAME="zad99bottles Coverage Results" MODIFIED="1774345455787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
