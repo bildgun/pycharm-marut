@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="Zad.2 bsusu">
-      <change afterPath="$PROJECT_DIR$/cw2/zadsamogl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad99bottles.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zad99bottles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadfor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadfor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadliterki.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadliterki.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadobiekty.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadobiekty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadodds.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw1/zadodds.py" afterDir="false" />
-    </list>
+    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="Zad.2 bsusu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774343341457</updated>
       <workItem from="1774343342459" duration="4730000" />
-      <workItem from="1774508867924" duration="1140000" />
+      <workItem from="1774508867924" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="Zad.1 bsusu">
       <option name="closed" value="true" />
@@ -150,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774508950521</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Zad.2 bsusu">
+      <option name="closed" value="true" />
+      <created>1774510021403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774510021403</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
