@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="Zad.2 bsusu">
-      <change afterPath="$PROJECT_DIR$/cw2/tuplezad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw2/zadkalk.py" afterDir="false" />
+    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="cw2 bsusu">
+      <change afterPath="$PROJECT_DIR$/cw3/klasy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cw2/zadsamogl.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw2/zadsamogl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,23 +28,26 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bildgun"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bildgun&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bildgun/pycharm-marut",
-    "accountId": "5bf7fd92-f0be-44de-ac39-e49b3bb55d3f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bildgun/pycharm-marut&quot;,
+    &quot;accountId&quot;: &quot;5bf7fd92-f0be-44de-ac39-e49b3bb55d3f&quot;
   }
-}]]></component>
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3BNxU5eXSseLCWkLgR7Y0sm4tis" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,15 +62,21 @@
     "Python.zadliterki.executor": "Run",
     "Python.zadobiekty.executor": "Run",
     "Python.zadsamogl.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,8 +88,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
       </set>
     </attachedChunks>
   </component>
@@ -95,7 +102,10 @@
       <option name="presentableId" value="Default" />
       <updated>1774343341457</updated>
       <workItem from="1774343342459" duration="4730000" />
-      <workItem from="1774508867924" duration="5079000" />
+      <workItem from="1774508867924" duration="5129000" />
+      <workItem from="1774850809900" duration="21000" />
+      <workItem from="1775714790645" duration="262000" />
+      <workItem from="1775719028919" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="Zad.1 bsusu">
       <option name="closed" value="true" />
@@ -177,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774510198325</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cw2 bsusu">
+      <option name="closed" value="true" />
+      <created>1774514002576</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774514002576</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +216,8 @@
     <MESSAGE value="Zad.1" />
     <MESSAGE value="Zad.1 bsusu" />
     <MESSAGE value="Zad.2 bsusu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zad.2 bsusu" />
+    <MESSAGE value="cw2 bsusu" />
+    <option name="LAST_COMMIT_MESSAGE" value="cw2 bsusu" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bildgun2$main.coverage" NAME="main Coverage Results" MODIFIED="1774343543870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
