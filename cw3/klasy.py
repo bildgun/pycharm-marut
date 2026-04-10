@@ -106,7 +106,7 @@ class Rygor:
 
 # rygor = Rygor("Cwiczenia")
 # rygor.dodawanie_rygor()
-#
+
 # student1 = Student("Jan Kowalski", 21, "A1")
 # student1.dodawanie_student()
 #
@@ -118,14 +118,14 @@ class Rygor:
 #
 # przedmiot2 = Przedmiot("Fizyka")
 # przedmiot2.dodawanie_przedmiot()
+# #
+# # rygor1 = Rygor("Wyklad")
+# # rygor1.dodawanie_rygor()
+# # #
+# # rygor2 = Rygor("Laboratorium")
+# # rygor2.dodawanie_rygor()
 #
-# rygor1 = Rygor("Cwiczenia")
-# rygor1.dodawanie_rygor()
 #
-# rygor2 = Rygor("Laboratorium")
-# rygor2.dodawanie_rygor()
-
-
 # ocena = Oceny(0, 0, 0, "2026-04-09", 4.5)
 # ocena.dodawanie_oceny()
 #
