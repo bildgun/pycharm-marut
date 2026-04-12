@@ -433,7 +433,7 @@ class MainWindow(QMainWindow):
         title = QLabel("Dziennik ocen")
         title.setObjectName("mainTitle")
 
-        subtitle = QLabel("PyQt5 • JSON • Frutiger Aero • szkło, światło, gradienty i animacje")
+        subtitle = QLabel("Bohdan Susulovskyi, Dziennik - Frutiger Aero Edition")
         subtitle.setObjectName("subTitle")
 
         header_layout.addWidget(title)
