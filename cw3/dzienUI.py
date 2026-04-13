@@ -382,8 +382,8 @@ class MainWindow(QMainWindow): #Klasa - Okno główne
         self.ocena_studentcombo = QComboBox()
         self.ocena_przedmiotcombo = QComboBox()
         self.ocena_rygorcombo = QComboBox()
-        self.ocena_termincombo = QLineEdit()
-        self.ocena_ocena = QLineEdit()
+        self.ocena_termincombo = QComboBox()
+        self.ocena_ocena = QComboBox()
 
         add_grade_btn = QPushButton("Dodaj ocenę")
         add_grade_btn.clicked.connect(self.add_grade)
@@ -391,7 +391,7 @@ class MainWindow(QMainWindow): #Klasa - Okno główne
         left_layout.addRow("Student:", self.ocena_studentcombo)
         left_layout.addRow("Przedmiot:", self.ocena_przedmiotcombo)
         left_layout.addRow("Rygor:", self.ocena_rygorcombo)
-        left_layout.addRow("Termin (DD-MM-YYYY):", self.ocena_termincombo)
+        left_layout.addRow("Termin (1,2,3):", self.ocena_termincombo)
         left_layout.addRow("Ocena:", self.ocena_ocena)
         left_layout.addRow(add_grade_btn)
 
@@ -425,7 +425,7 @@ class MainWindow(QMainWindow): #Klasa - Okno główne
         self.ocena_studentcombo.clear()
         self.ocena_przedmiotcombo.clear()
         self.ocena_rygorcombo.clear()
-
+        self.ocena_termincombo.clear()
         for student in data["student"]:
             self.ocena_studentcombo.addItem(
                 f'{student["imie_i_nazwisko"]} (ID: {student["studentId"]})',
@@ -443,7 +443,14 @@ class MainWindow(QMainWindow): #Klasa - Okno główne
                 f'{rygor["nazwa"]} (ID: {rygor["rygorId"]})',
                 rygor["rygorId"]
             )
+        for termin in range(1,3):
+            self.ocena_termincombo.addItem(termin)
 
+        self.ocena_ocena.addItem('2')
+        self.ocena_ocena.addItem('3')
+        self.ocena_ocena.addItem('3.5')
+        self.ocena_ocena.addItem('4')
+        self.ocena_ocena.addItem('5')
     def add_grade(self):
         if self.ocena_studentcombo.count() == 0:
             self.show_error("Brak studentów. Dodaj studenta.")

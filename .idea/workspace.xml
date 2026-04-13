@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="koniec">
+    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="cw2 bsusu">
+      <change afterPath="$PROJECT_DIR$/cw4/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bildgun2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bildgun2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cw3/DzienGUIFrutigerAero.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw3/DzienGUIFrutigerAero.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cw3/dzienUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw3/dzienUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="Bildgun" />
@@ -59,6 +60,7 @@
     "Python.dzienUI.executor": "Run",
     "Python.klasy.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.plot.executor": "Run",
     "Python.tuplezad.executor": "Run",
     "Python.zad99bottles.executor": "Run",
     "Python.zadfor.executor": "Debug",
@@ -74,14 +76,13 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
-    "git.auto.fetch.suggestion.counter": "1",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -111,8 +112,7 @@
       <workItem from="1774850809900" duration="21000" />
       <workItem from="1775714790645" duration="262000" />
       <workItem from="1775719028919" duration="1143000" />
-      <workItem from="1775766841175" duration="5805000" />
-      <workItem from="1776002229469" duration="3522000" />
+      <workItem from="1775766841175" duration="5342000" />
     </task>
     <task id="LOCAL-00001" summary="Zad.1 bsusu">
       <option name="closed" value="true" />
@@ -202,23 +202,7 @@
       <option name="project" value="LOCAL" />
       <updated>1774514002576</updated>
     </task>
-    <task id="LOCAL-00012" summary="cw2 bsusu">
-      <option name="closed" value="true" />
-      <created>1775772222199</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1775772222199</updated>
-    </task>
-    <task id="LOCAL-00013" summary="koniec">
-      <option name="closed" value="true" />
-      <created>1776005700334</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1776005700334</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,20 +224,36 @@
     <MESSAGE value="Zad.1 bsusu" />
     <MESSAGE value="Zad.2 bsusu" />
     <MESSAGE value="cw2 bsusu" />
-    <MESSAGE value="koniec" />
-    <option name="LAST_COMMIT_MESSAGE" value="koniec" />
+    <option name="LAST_COMMIT_MESSAGE" value="cw2 bsusu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cw3/dzienUI.py</url>
+          <line>384</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cw3/dzienUI.py</url>
+          <line>385</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bildgun2$tuplezad.coverage" NAME="tuplezad Coverage Results" MODIFIED="1774511592632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
+    <SUITE FILE_PATH="coverage/Bildgun2$zadkalk.coverage" NAME="zadkalk Coverage Results" MODIFIED="1774513869721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
+    <SUITE FILE_PATH="coverage/Bildgun2$main.coverage" NAME="main Coverage Results" MODIFIED="1774343543870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bildgun2$zadsamogl.coverage" NAME="zadsamogl Coverage Results" MODIFIED="1774510456415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
+    <SUITE FILE_PATH="coverage/Bildgun2$zadobiekty.coverage" NAME="zadobiekty Coverage Results" MODIFIED="1774347122638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bildgun2$zad99bottles.coverage" NAME="zad99bottles Coverage Results" MODIFIED="1774345455787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bildgun2$zadliterki.coverage" NAME="zadliterki Coverage Results" MODIFIED="1774508918546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Bildgun2$zadfor.coverage" NAME="zadfor Coverage Results" MODIFIED="1774344900704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bildgun2$DzienGUIFrutigerAero.coverage" NAME="DzienGUIFrutigerAero Coverage Results" MODIFIED="1776061025024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw3" />
+    <SUITE FILE_PATH="coverage/Bildgun2$dzienUI.coverage" NAME="dzienUI Coverage Results" MODIFIED="1776061396131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw3" />
     <SUITE FILE_PATH="coverage/pyprojects$klasy.coverage" NAME="klasy Coverage Results" MODIFIED="1775772162984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw3" />
-    <SUITE FILE_PATH="coverage/pyprojects$DzienGUIFrutigerAero.coverage" NAME="DzienGUIFrutigerAero Coverage Results" MODIFIED="1776005746766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw3" />
-    <SUITE FILE_PATH="coverage/Bildgun2$zadobiekty.coverage" NAME="zadobiekty Coverage Results" MODIFIED="1774347122638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pyprojects$dzienUI.coverage" NAME="dzienUI Coverage Results" MODIFIED="1776005677775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw3" />
-    <SUITE FILE_PATH="coverage/Bildgun2$zadkalk.coverage" NAME="zadkalk Coverage Results" MODIFIED="1774513869721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
-    <SUITE FILE_PATH="coverage/Bildgun2$zadsamogl.coverage" NAME="zadsamogl Coverage Results" MODIFIED="1774510456415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
-    <SUITE FILE_PATH="coverage/Bildgun2$tuplezad.coverage" NAME="tuplezad Coverage Results" MODIFIED="1774511592632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw2" />
-    <SUITE FILE_PATH="coverage/Bildgun2$zad99bottles.coverage" NAME="zad99bottles Coverage Results" MODIFIED="1774345455787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Bildgun2$main.coverage" NAME="main Coverage Results" MODIFIED="1774343543870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bildgun2$plot.coverage" NAME="plot Coverage Results" MODIFIED="1776065882546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cw4" />
   </component>
 </project>
