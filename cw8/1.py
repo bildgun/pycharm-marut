@@ -25,10 +25,10 @@ class BudgetManager:
         pass
 
     def dodaj_wydatek(self, Wydatek):
-        data = wydatek.data
-        kategoria = wydatek.kategoria
-        kwota = wydatek.kwota
-        opis = wydatek.opis
+        data = Wydatek.data
+        kategoria = Wydatek.kategoria
+        kwota = Wydatek.kwota
+        opis = Wydatek.opis
         self.wydatki.append(Wydatek(data,kategoria,kwota,opis))
         pass
 
