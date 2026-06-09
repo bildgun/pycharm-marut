@@ -56,6 +56,8 @@ class BudgetManager:
         self.wydatki = []
         pass
 
+    
+
 
 
 
