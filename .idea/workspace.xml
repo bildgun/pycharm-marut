@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="cw8 bsusu">
-      <change afterPath="$PROJECT_DIR$/cw8/gui.ui" afterDir="false" />
+    <list default="true" id="58ecb39a-4f30-4a25-a01d-cba9388b5a31" name="Changes" comment="cw9 bsusu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cw8/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cw8/1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +135,7 @@
       <workItem from="1780307690589" duration="60000" />
       <workItem from="1780313762041" duration="5151000" />
       <workItem from="1780318936480" duration="15000" />
-      <workItem from="1780985984126" duration="4564000" />
+      <workItem from="1780985984126" duration="4625000" />
     </task>
     <task id="LOCAL-00001" summary="Zad.1 bsusu">
       <option name="closed" value="true" />
@@ -267,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780318946432</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="cw9 bsusu">
+      <option name="closed" value="true" />
+      <created>1780990600233</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1780990600233</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +298,8 @@
     <MESSAGE value="cw5 bsusu" />
     <MESSAGE value="cw7 bsusu" />
     <MESSAGE value="cw8 bsusu" />
-    <option name="LAST_COMMIT_MESSAGE" value="cw8 bsusu" />
+    <MESSAGE value="cw9 bsusu" />
+    <option name="LAST_COMMIT_MESSAGE" value="cw9 bsusu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
